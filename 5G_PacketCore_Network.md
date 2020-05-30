@@ -1,4 +1,5 @@
 #5G Service Based Architecture AGF (Access Gateway Function)
+
 [https://www.metaswitch.com/knowledge-center/reference/what-is-a-5g-access-gateway-function-agf](https://www.metaswitch.com/knowledge-center/reference/what-is-a-5g-access-gateway-function-agf)
 
 
