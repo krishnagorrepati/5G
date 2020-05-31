@@ -1,0 +1,1 @@
+![https://media-exp1.licdn.com/dms/image/sync/C4D27AQGfb0BuM_ei7g/articleshare-shrink_800/0?e=1591005600&v=beta&t=Z9R-uaixnHG6TyofCJOnYRh3MjrD4GE52FMmMIC2uMo](https://media-exp1.licdn.com/dms/image/sync/C4D27AQGfb0BuM_ei7g/articleshare-shrink_800/0?e=1591005600&v=beta&t=Z9R-uaixnHG6TyofCJOnYRh3MjrD4GE52FMmMIC2uMo)
