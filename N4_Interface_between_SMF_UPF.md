@@ -18,7 +18,9 @@ As mentioned above, policy rules provided by the SMF received from PCF may gover
 - Usage Reporting Rule (URR)
 - Buffering Action Rule (BAR)
 
+#### N4 Report
 
+A UPF uses this procedure to notify the SMF of information that is  not related to a specific N4 session but which may affect all sessions,  such as a user plane path failure with a remote GTP-U peer.
 
 References:-
 
