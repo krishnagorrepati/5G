@@ -4,7 +4,7 @@
 
 
 
-![n4_app](https://github.com/krishnagorrepati/5G/n4_app)
+![https://github.com/krishnagorrepati/5G/n4_app.png](https://github.com/krishnagorrepati/5G/n4_app.png)
 
 
 
